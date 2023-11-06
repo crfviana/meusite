@@ -19,6 +19,6 @@ a{
 img {
     width: 150%;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 10%;
     border: 50px solid red;
 }
