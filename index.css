@@ -17,12 +17,8 @@ a{
 }
 
 img {
-    width: 150px;
+    width: 150%;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid red ;
-}
-
-.center {
-    text-align: center;
+    border: 50px solid red;
 }
