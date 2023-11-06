@@ -1,6 +1,7 @@
 body{
     color: rgb(255, 255, 255);
     background-color:rgb(0, 0, 0) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ul {
@@ -19,7 +20,7 @@ a{
 img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 40%;
     border: 5px solid red;
 }
 
