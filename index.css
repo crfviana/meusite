@@ -37,11 +37,16 @@ footer img {
     height: 40px;
 }
 
-footer{
+footer {
     display: flex;
     justify-content: center;
 }
 
 footer a {
-    magin: 40px;
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
 }
