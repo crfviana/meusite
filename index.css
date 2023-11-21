@@ -54,3 +54,7 @@ footer p {
 .container {
 padding: 0px 0px;
 }
+
+nav a:hover {
+    color: #007FFF;
+}
