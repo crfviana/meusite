@@ -20,8 +20,8 @@ a{
 header img {
     width: 130px;
     height: 130px;
-    border-radius: 100%;
-    border: 5px solid #007FFF;
+    border-radius: 45%;
+    border: 10px solid #007FFF;
 }
 
 .center {
